@@ -91,3 +91,4 @@ docs-site/node_modules/
 tmp/
 .trae/
 .sisyphus
+admin_token
